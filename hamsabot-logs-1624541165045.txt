@@ -1,0 +1,10 @@
+2021-06-24T13:23:51.445458+00:00 app[worker.1]: [24-Jun-21 13:23:51 - INFO] - root - Stop signal received (15). Exiting...
+2021-06-24T13:23:53.241367+00:00 app[worker.1]: [24-Jun-21 13:23:53 - INFO] - bot.bot - Bot stopped. Bye.
+2021-06-24T13:23:53.581332+00:00 heroku[worker.1]: Process exited with status 0
+2021-06-24T13:24:09.391680+00:00 app[api]: Scaled to worker@1:Free by user mubi5074@gmail.com
+2021-06-24T13:24:16.439954+00:00 heroku[worker.1]: Starting process with command `python3 -m bot`
+2021-06-24T13:24:17.240156+00:00 heroku[worker.1]: State changed from starting to up
+2021-06-24T13:24:30.421231+00:00 app[worker.1]: Pyrogram v1.2.9, Copyright (C) 2017-2021 Dan <https://github.com/delivrance>
+2021-06-24T13:24:30.421272+00:00 app[worker.1]: Licensed under the terms of the GNU Lesser General Public License v3 or later (LGPLv3+)
+2021-06-24T13:24:30.421272+00:00 app[worker.1]: 
+2021-06-24T13:24:36.179082+00:00 app[worker.1]: [24-Jun-21 13:24:36 - INFO] - bot.bot - @Kootharakilladibot  started! 
